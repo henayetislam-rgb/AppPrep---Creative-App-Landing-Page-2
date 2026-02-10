@@ -1,0 +1,101 @@
+.menu-top .active a,
+.menu-top .active a:focus,
+.menu-top .active a:hover {
+    color: #F4413C;
+}
+.menu-top li a:hover {
+    color: #F4413C;
+}
+.bttn {
+    background: #F4413C;
+}
+.top-head {
+    color: #F4413C;
+}
+.about-bottom-icon {
+    border: 2px solid #F4413C;
+    color: #F4413C;
+}
+.getting-left h2 a {
+    border-bottom: 2px solid #F4413C;
+}
+.getting-right a:hover {
+    color: #F4413C;
+}
+.professional-bottom span {
+    background: #F4413C;
+}
+.feature-bottom ul li i {
+    color: #F4413C;
+}
+.screen-bottom-slide-overlay {
+    background: rgba(244, 60, 106, 0.8);
+}
+.screen-bottom .owl-dot.active {
+    background: #F4413D;
+}
+.client-bottom .owl-prev:hover,
+.client-bottom .owl-next:hover {
+    background: #F6403C;
+}
+.video-left a:hover {
+    color: #F4413C;
+}
+.counter-bottom {
+    background: #F4413C;
+}
+.count::before {
+    border-color: #FF524C;
+}
+.trial-right a:hover {
+    color: #F4413C;
+}
+.footer-top-content ul li i {
+    color: #F4413D;
+}
+.footer ul li a:hover {
+    color: #F4413D;
+}
+.scrollToTop:hover,
+.scrollToTop:focus {
+    border: 2px solid #F4413D;
+}
+.scrollToTop {
+    border: 2px solid #F4413D;
+}
+.scrollToTop .scroll-i {
+    color: #F4413D;
+}
+.blog-menu ul li.activv a {
+    color: #F4413D;
+}
+.latest-blog-post h4 a {
+    color: #F4413D;
+}
+.blog-arrow ul li a:hover {
+    border: 2px solid #F4413D;
+}
+.blog-side-search i {
+    color: #F4413D;
+}
+.blog-details-para p.activv {
+    color: #F4413D;
+}
+.blog-details-like ul li a i {
+    color: #F4413D;
+}
+.blog-comment-txt .reply span {
+    color: #F4413D;
+}
+.single-form input:hover, .single-form textarea:hover {
+    border: 1px solid #F4413D;
+}
+.single-form button:hover {
+    color: #F4413D;
+}
+.four04-content h2 {
+    color: #F4413D;
+}
+.four04-content a:hover {
+    color: #F4413D;
+}
